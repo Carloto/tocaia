@@ -1,0 +1,40 @@
+baseURL: "https://carloto.github.io/tocaia/"
+title: Tocaia
+pagination:
+  pagerSize: 5
+theme: PaperMod
+enableRobotsTXT: true
+buildDrafts: false
+
+params:
+  description: "AppSec write-ups and security research"
+  keywords: [AppSec, Security, CTF, Write-ups, LLM Security]
+  author: Vinicius Carloto
+  defaultTheme: dark
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  UseHugoToc: true
+
+  homeInfoParams:
+    Title: "Tocaia"
+    Content: "AppSec write-ups and security research. From Tupi — meaning ambush."
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/Carloto"
+    - name: linkedin
+      url: "https://linkedin.com/in/vcarloto"
+
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 10
+
+markup:
+  highlight:
+    noClasses: false

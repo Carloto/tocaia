@@ -18,6 +18,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   UseHugoToc: true
+  disableThemeToggle: true
 
   homeInfoParams:
     Title: "Tocaia"

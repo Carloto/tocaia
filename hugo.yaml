@@ -7,6 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 
 params:
+  env: production
   description: "AppSec write-ups and security research"
   keywords: [AppSec, Security, CTF, Write-ups, LLM Security]
   author: Vinicius Carloto
@@ -27,6 +28,17 @@ params:
       url: "https://github.com/Carloto"
     - name: linkedin
       url: "https://linkedin.com/in/vcarloto"
+  
+  assets:
+    favicon: /tocaia/favicon.ico
+    favicon16x16: /tocaia/favicon-16x16.png
+    favicon32x32: /tocaia/favicon-32x32.png
+    apple_touch_icon: /tocaia/apple-touch-icon.png
+
+  label:
+    text: "Tocaia"
+    icon: /tocaia/logo.png
+    iconHeight: 28
 
 menu:
   main:

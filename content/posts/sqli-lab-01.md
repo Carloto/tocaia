@@ -3,7 +3,7 @@ title: "Sqli Lab 01"
 date: 2026-02-22T18:17:23-03:00
 tags: ["write-up"]
 summary: ""
-draft: true
+draft: false
 ---
 
 ## Description

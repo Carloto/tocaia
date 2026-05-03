@@ -8,7 +8,7 @@ buildDrafts: false
 
 params:
   env: production
-  description: "AppSec write-ups and security research"
+  description: "Notes on product engineering, Go, AI, and building software that ships."
   keywords: [AppSec, Security, CTF, Write-ups, LLM Security]
   author: Vinicius Carloto
   defaultTheme: dark
@@ -22,7 +22,7 @@ params:
 
   homeInfoParams:
     Title: "Tocaia"
-    Content: "AppSec write-ups and security research. From Tupi — meaning ambush."
+    Content: "Tocaia is where I write about product engineering, Go, AI, and the messy process of building software that actually ships."
 
   socialIcons:
     - name: github

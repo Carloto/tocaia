@@ -10,22 +10,28 @@ ShowBreadCrumbs: false
 
 ## Hey, I'm Vinicius Carloto
 
-Full Stack Developer transitioning into Application Security.
+I'm a full-stack developer from Brazil.
 
-I have 5+ years of experience building web applications with Node.js, TypeScript, React, and cloud platforms (AWS, Azure). Currently at System2, where I develop a fitness app with React Native and built AI-powered features using GPT and Langfuse.
+Most of my work is around TypeScript, React, Next.js, Node.js, NestJS, cloud, and AI-powered product features.
 
-Now I'm applying that same builder's mindset to security — learning how to break, test, and protect the systems I used to only build.
+Right now, I'm getting deeper into Go and AI engineering by building projects in public.
+
+Tocaia is where I write about product engineering, backend development, AI, and the messy process of building software that actually ships.
 
 ## What I'm focused on
 
-- Web application security (OWASP Top 10, PortSwigger labs, CTFs)
-- DevSecOps tooling (SAST/DAST, CI/CD security pipelines)
-- AI/LLM security (prompt injection, RAG poisoning, guardrail bypass)
-- Building security tools in Python and Go
+- Product engineering
+- Go for backend services
+- AI-powered software
+- System design
+- Full-stack development
+- Security-aware development
 
 ## Why "Tocaia"?
 
-*Tocaia* is a Tupi word meaning ambush — lying in wait, watching closely before striking. It felt like the right name for a blog about hunting vulnerabilities.
+*Tocaia* is a Tupi word connected to waiting, watching, and acting with intent.
+
+That felt like the right name for a blog about engineering: understanding the problem, observing the trade-offs, and building deliberately instead of just throwing code at the wall like a caffeinated raccoon.
 
 ## Get in touch
 
